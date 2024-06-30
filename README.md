@@ -5,11 +5,8 @@
 
 ## Table of contents
 * [Project Description](#project-description)
-* [Technologies](#technologies)
-* [Usage instructions](#usage-instructions)
 * [Team Members](#team-members)
-* [Contact Information](#contact-information)
-
+* [Technologies](#technologies)
 ## Project Description
 SkyHigh Airlines is looking to expand its markets to online shoppers all over the world. We hope to achieve this goal of providing a seamless user experience with implementing an online reservation system. The main features of the system include the following: 
   * Customers can search for flights, purchase flights, and check flight status. 
@@ -27,4 +24,3 @@ SkyHigh Airlines is looking to expand its markets to online shoppers all over th
   * OneDrive (Documentation Collaboration)
   * GitHub (Repository Hosting)
 
-## Usage instructions
